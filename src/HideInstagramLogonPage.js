@@ -1,1 +1,1 @@
-javascript:function doIt(){document.body.style.overflow='visible';var overlay = document.getElementsByClassName('RnEpo');overlay[0].remove();return;};doIt();
+javascript: function doIt() { document.body.style.overflow = 'visible'; var overlay = document.getElementsByClassName('RnEpo'); overlay[0].remove(); return; }; doIt();

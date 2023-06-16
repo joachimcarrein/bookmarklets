@@ -1,0 +1,1 @@
+javascript:(function(){const oldFocus = document.activeElement;var message = prompt("Input Text");message = message.toLowerCase();for (let i = 0; i < message.length; i += 2) {message = message.substring(0, i) + message[i].toUpperCase() + message.substring(i+1);}oldFocus.focus();navigator.clipboard.writeText(message);return})()

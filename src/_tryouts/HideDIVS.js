@@ -1,1 +1,1 @@
-javascript:function doIt(){filter='sq';x=document.getElementsByClassName('details');for (index=0;index<x.length;++index){if (!(x[index].innerHTML.indexOf(filter) != -1)){x[index].parentElement.hidden=true;}};return;};doIt();
+javascript: function doIt() { filter = 'sq'; x = document.getElementsByClassName('details'); for (index = 0; index < x.length; ++index) { if (!(x[index].innerHTML.indexOf(filter) != -1)) { x[index].parentElement.hidden = true; } }; return; }; doIt();

@@ -1,1 +1,1 @@
-javascript: void(document.oncontextmenu = null)
+javascript: void (document.oncontextmenu = null)
