@@ -10,6 +10,7 @@ Will mark all builds on screen which have retained flag. This will be more visib
 
 ## DownForAll
 Will redirect to downforeveryoneorjustme.com for the site you are currently on
+
 ![Down For All Sample](img/DownForAll.png)
 
 ## EnableRightClick
